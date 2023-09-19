@@ -1,6 +1,8 @@
 #  MFAE
-MFAE: Multilevel Feature Aggregation Enhanced Drug-Target Affnity Prediction for Drug Repurposing against Colorectal Cancer
+MFAE: Multilevel Feature Aggregation Enhanced Drug-Target Affnity Prediction for Drug Repurposing against Colorectal Cancer.
 This research introduces the first comprehensive drug-target affnity dataset for CRC-specific targets, P2X4 and mTOR. Utilizing a novel deep learning MFAE model, specific inhibitors are systematically sourced from ChEMBL. The meticulously fine-tuned model then screens FDA-approved drugs, effectively pinpointing potential lead compounds for CRC treatment.
+![fig_1](https://github.com/gxCaesar/MFAE/assets/57307280/c48541d8-478a-49f9-81e2-c413341b6b49)
+
 
 ## File list
 - Data: the processed dataset of CRC dataset.
